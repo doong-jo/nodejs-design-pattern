@@ -40,3 +40,5 @@ Study Node.js Design Pattern
 - [source code] [proxy](https://github.com/doong-jo/nodejs-design-pattern/blob/master/ch6/proxy)
 - [📝 데코레이터](https://doong-jo.github.io/nodejs/2019/10/20/디자인패턴-데코레이터/)
 - [source code] [decorator](https://github.com/doong-jo/nodejs-design-pattern/blob/master/ch6/decorator/example.js)
+- - [📝 어댑터](https://doong-jo.github.io/nodejs/2019/10/20/디자인패턴-어댑터/)
+- [source code] [adapter](https://github.com/doong-jo/nodejs-design-pattern/blob/master/ch6/adapter/example.js)
