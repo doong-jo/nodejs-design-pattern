@@ -36,3 +36,5 @@ Study Node.js Design Pattern
 ### Ch6. Deisgn Patterns
 - [📝 팩토리](https://doong-jo.github.io/nodejs/2019/10/19/디자인패턴-팩토리/)
 - [source code] [factory](https://github.com/doong-jo/nodejs-design-pattern/blob/master/ch6/factory)
+- [📝 프록시](https://doong-jo.github.io/nodejs/2019/10/20/디자인패턴-프록시/)
+- [source code] [proxy](https://github.com/doong-jo/nodejs-design-pattern/blob/master/ch6/proxy)
