@@ -32,3 +32,7 @@ Study Node.js Design Pattern
 ### Ch5. Coding with Streams
 - [📝 스트림 코딩](https://doong-jo.github.io/nodejs/2019/10/13/스트림-코딩/)
 - [source code] [stream](https://github.com/doong-jo/nodejs-design-pattern/blob/master/ch5)
+
+### Ch6. Deisgn Patterns
+- [📝 팩토리](https://doong-jo.github.io/nodejs/2019/10/13/스트림-코딩/)
+- [source code] [factory](https://github.com/doong-jo/nodejs-design-pattern/blob/master/ch6/factory)
